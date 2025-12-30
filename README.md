@@ -9,7 +9,8 @@ This repository contains my solutions to algorithm and problem-solving challenge
 - Solve Me First (JavaScript)
 - Simple Array Sum (JavaScript)
 - Diagonal Difference (JavaScript)
-
+- Compare The Triplets (JavaScript)
+  
 ## Purpose
 To practice algorithms and improve my problem-solving skills.
 
