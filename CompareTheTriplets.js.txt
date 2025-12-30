@@ -1,0 +1,14 @@
+function compareTriplets(a, b) {
+let aPuan = 0;
+let bPuan = 0;
+
+    for (let i = 0; i < a.length; i++) {
+        if (a[i] > b[i]) {
+            aPuan++;
+        } else if (a[i] < b[i]) {
+            bPuan++;
+        }
+    }
+
+    return [aPuan, bPuan];
+}
