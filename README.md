@@ -8,7 +8,8 @@ This repository contains my solutions to algorithm and problem-solving challenge
 ## Contents
 - Solve Me First (JavaScript)
 - Simple Array Sum (JavaScript)
-- 
+- Diagonal Difference (JavaScript)
+
 ## Purpose
 To practice algorithms and improve my problem-solving skills.
 
