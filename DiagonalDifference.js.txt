@@ -1,0 +1,10 @@
+function diagonalDifference(arr) {
+let birinciToplam = 0;
+let ikinciToplam = 0;
+
+for (let i = 0; i < arr.length; i++) {
+birinciToplam += arr[i][i];
+ikinciToplam += arr[i][arr.length - 1 - i];    
+}
+return Math.abs(birinciToplam - ikinciToplam);
+}
