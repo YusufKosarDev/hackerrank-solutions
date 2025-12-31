@@ -10,6 +10,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 - Simple Array Sum (JavaScript)
 - Diagonal Difference (JavaScript)
 - Compare The Triplets (JavaScript)
+- A Very Big Sum (JavaScript)
   
 ## Purpose
 To practice algorithms and improve my problem-solving skills.
