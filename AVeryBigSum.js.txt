@@ -1,0 +1,7 @@
+function aVeryBigSum(ar) {
+let toplam = 0n;
+for (let i = 0; i < ar.length; i++) {
+    toplam = toplam + BigInt(ar[i])
+}
+return toplam;
+}
