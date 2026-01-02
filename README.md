@@ -12,6 +12,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 - Compare The Triplets (JavaScript)
 - A Very Big Sum (JavaScript)
 - Staircase (JavaScript)
+- Mini-Max Sum (JavaScript)
   
 ## Purpose
 To practice algorithms and improve my problem-solving skills.
