@@ -1,0 +1,18 @@
+function plusMinus(arr) {
+let positiveSayac = 0;
+let negativeSayac = 0;
+let zeroSayac = 0;
+
+for (let i = 0; i < arr.length; i++) {
+if (arr[i] > 0) {
+positiveSayac++;
+} else if (arr[i] < 0) {
+negativeSayac++;
+} else {
+zeroSayac++;
+}
+}
+console.log((positiveSayac / arr.length).toFixed(6));
+console.log((negativeSayac / arr.length).toFixed(6));
+console.log((zeroSayac / arr.length).toFixed(6));
+}
