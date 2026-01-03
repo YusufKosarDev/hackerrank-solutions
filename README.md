@@ -13,6 +13,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 - A Very Big Sum (JavaScript)
 - Staircase (JavaScript)
 - Mini-Max Sum (JavaScript)
+- Plus Minus (JavaScript)
   
 ## Purpose
 To practice algorithms and improve my problem-solving skills.
