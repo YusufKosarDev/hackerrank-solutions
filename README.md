@@ -14,6 +14,8 @@ This repository contains my solutions to algorithm and problem-solving challenge
 - Staircase (JavaScript)
 - Mini-Max Sum (JavaScript)
 - Plus Minus (JavaScript)
+- Birthday Cake Candles (JavaScript)
+  
   
 ## Purpose
 To practice algorithms and improve my problem-solving skills.
