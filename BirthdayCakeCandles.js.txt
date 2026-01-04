@@ -1,0 +1,15 @@
+function birthdayCakeCandles(candles) {
+    let enBuyuk = candles[0];
+    let sayac = 1;
+
+    for (let i = 1; i < candles.length; i++) {
+        if (candles[i] > enBuyuk) {
+            enBuyuk = candles[i];
+            sayac = 1;
+        } else if (candles[i] === enBuyuk) {
+            sayac++;
+        }
+    }
+
+    return sayac;
+}
