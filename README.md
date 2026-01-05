@@ -15,6 +15,8 @@ This repository contains my solutions to algorithm and problem-solving challenge
 - Mini-Max Sum (JavaScript)
 - Plus Minus (JavaScript)
 - Birthday Cake Candles (JavaScript)
+- Time Conversion (JavaScript)
+  
   
   
 ## Purpose
