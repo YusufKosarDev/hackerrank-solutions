@@ -1,0 +1,17 @@
+function gradingStudents(grades) {
+let result = [];
+for (let i = 0; i < grades.length; i++) {
+    let grade = grades[i];
+    if (grade < 38) {
+        result.push(grade);
+    } else {
+    let nextMultiple = grade + (5 - grade % 5);
+    if (nextMultiple - grade < 3) {
+        result.push(nextMultiple);
+    } else {
+        result.push(grade);
+    }                 
+    }
+}
+return result;
+} 
