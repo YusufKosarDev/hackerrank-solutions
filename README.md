@@ -16,6 +16,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 - Plus Minus (JavaScript)
 - Birthday Cake Candles (JavaScript)
 - Time Conversion (JavaScript)
+- Grading Students (JavaScript)
   
   
   
