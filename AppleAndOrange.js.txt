@@ -1,0 +1,17 @@
+function countApplesAndOranges(s, t, a, b, apples, oranges) {
+    
+    const appleCount = apples.filter(d => {
+        let position = a + d;
+        return position >= s && position <= t;
+    }).length;
+
+    
+    const orangeCount = oranges.filter(d => {
+        let position = b + d;
+        return position >= s && position <= t;
+    }).length;
+
+    
+    console.log(appleCount);
+    console.log(orangeCount);
+}
