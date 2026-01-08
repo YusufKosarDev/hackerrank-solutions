@@ -18,6 +18,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 - Time Conversion (JavaScript)
 - Grading Students (JavaScript)
 - Apple And Orange  (JavaScript)
+- Number Line Jumps (JavaScript)
   
   
   
