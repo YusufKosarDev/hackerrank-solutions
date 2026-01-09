@@ -1,0 +1,12 @@
+function getTotalX(a, b) {
+let count = 0;
+for ( let i = Math.max(...a); i <= Math.min(...b); i++) {
+let isAKati = a.every(item => i % item === 0);
+let isBBoleni = b.every(item => item % i ===0);
+if (isAKati && isBBoleni) {
+  count++;
+}
+}
+return count;      
+
+}
