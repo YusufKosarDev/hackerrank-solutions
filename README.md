@@ -20,6 +20,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 - Apple And Orange  (JavaScript)
 - Number Line Jumps (JavaScript)
 - Between Two Sets (JavaScript)
+- Breaking The Records (JavaScript)
   
   
   
