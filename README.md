@@ -22,6 +22,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 - Between Two Sets (JavaScript)
 - Breaking The Records (JavaScript)
 - Subarray Division (JavaScript)
+-  Divisible Sum Pairs (JavaScript)
   
   
   
