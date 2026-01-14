@@ -1,0 +1,21 @@
+function migratoryBirds(arr) {
+ const frekanslar = {};
+
+  arr.forEach(bird => {
+    frekanslar[bird] = (frekanslar[bird] || 0) + 1;
+  });
+
+  let maxCount = 0;
+  let minBirdId = Infinity;
+
+  for (let bird in frekanslar) {
+    const count = frekanslar[bird];
+
+    if (count > maxCount || (count === maxCount && bird < minBirdId)) {
+      maxCount = count;
+      minBirdId = bird;
+    }
+  }
+
+  return Number(minBirdId);
+}
