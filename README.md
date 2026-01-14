@@ -23,7 +23,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 - Breaking The Records (JavaScript)
 - Subarray Division (JavaScript)
 -  Divisible Sum Pairs (JavaScript)
-  
+-  Migratory Birds (JavaScript)
   
   
 ## Purpose
