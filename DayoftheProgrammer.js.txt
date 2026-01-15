@@ -1,0 +1,29 @@
+function dayOfProgrammer(year) {
+ if (year === 1918) {
+    return "26.09.1918";
+  }
+
+  
+  let isLeap;
+
+  if (year < 1918) {
+    
+    isLeap = year % 4 === 0;
+  } else {
+    
+    isLeap = (year % 400 === 0) || (year % 4 === 0 && year % 100 !== 0);
+  }
+
+  
+  const februaryDays = isLeap ? 29 : 28;
+
+  
+  const daysBeforeSeptember =
+    31 + februaryDays + 31 + 30 + 31 + 30 + 31 + 31;
+
+  
+  const day = 256 - daysBeforeSeptember;
+
+  
+  return `${day}.09.${year}`;
+};
