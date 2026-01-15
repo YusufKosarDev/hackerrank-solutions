@@ -24,6 +24,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 - Subarray Division (JavaScript)
 -  Divisible Sum Pairs (JavaScript)
 -  Migratory Birds (JavaScript)
+-  Day Of The Programmer (JavaScript)
   
   
 ## Purpose
