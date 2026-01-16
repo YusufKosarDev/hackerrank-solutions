@@ -25,6 +25,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -  Divisible Sum Pairs (JavaScript)
 -  Migratory Birds (JavaScript)
 -  Day Of The Programmer (JavaScript)
+-  Bill Division (JavaScript)
   
   
 ## Purpose
