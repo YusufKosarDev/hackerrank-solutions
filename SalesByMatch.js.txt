@@ -1,0 +1,14 @@
+function sockMerchant(n, ar) {
+    let pairs = 0;
+    const inventory = new Set();
+    
+    for (let sock of ar) {
+        if (inventory.has(sock)) {
+            pairs++;
+            inventory.delete(sock);
+        } else {
+            inventory.add(sock);
+        }
+    }
+          return pairs;
+}
