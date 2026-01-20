@@ -1,0 +1,25 @@
+function getMoneySpent(keyboards, drives, b) {
+    let maxSpent = -1;
+
+    
+    for (let i = 0; i < keyboards.length; i++) {
+        
+        
+        for (let j = 0; j < drives.length; j++) {
+            
+            
+            let currentCost = keyboards[i] + drives[j];
+
+            
+            if (currentCost <= b) {
+                
+                if (currentCost > maxSpent) {
+                    maxSpent = currentCost;
+                }
+            }
+        }
+    }
+
+    
+    return maxSpent;
+}
