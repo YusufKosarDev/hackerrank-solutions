@@ -29,6 +29,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -  Sales By Match (JavaScript)
 -  Drawing Book (JavaScript)
 -  Counting Valleys (JavaScript)
+-  Electronics Shop (JavaScript)
   
   
 ## Purpose
