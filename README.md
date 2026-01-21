@@ -30,6 +30,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -  Drawing Book (JavaScript)
 -  Counting Valleys (JavaScript)
 -  Electronics Shop (JavaScript)
+-  Cats And A Mouse (JavaScript)
   
   
 ## Purpose
