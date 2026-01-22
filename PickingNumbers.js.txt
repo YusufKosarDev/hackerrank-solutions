@@ -1,0 +1,18 @@
+function pickingNumbers(a) {
+    let freq = Array(101).fill(0);
+
+    
+    for (let num of a) {
+        freq[num]++;
+    }
+
+    let maxLength = 0;
+
+    
+    for (let i = 0; i < 100; i++) {
+        let currentLength = freq[i] + freq[i + 1];
+        maxLength = Math.max(maxLength, currentLength);
+    }
+
+    return maxLength;
+}
