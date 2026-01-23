@@ -32,7 +32,9 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -  Electronics Shop (JavaScript)
 -  Cats And A Mouse (JavaScript)
 -  Picking Numbers (JavaScript)
+-  The Hurdle Race (JavaScript)
   
+
   
 ## Purpose
 To practice algorithms and improve my problem-solving skills.
