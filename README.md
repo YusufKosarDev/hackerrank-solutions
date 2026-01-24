@@ -33,6 +33,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -  Cats And A Mouse (JavaScript)
 -  Picking Numbers (JavaScript)
 -  The Hurdle Race (JavaScript)
+-  Designer PDF Viewer (JavaScript)
   
 
   
