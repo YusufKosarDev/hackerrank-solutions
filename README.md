@@ -34,6 +34,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -  Picking Numbers (JavaScript)
 -  The Hurdle Race (JavaScript)
 -  Designer PDF Viewer (JavaScript)
+-  Utopian Tree (JavaScript)
   
 
   
