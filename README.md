@@ -36,6 +36,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -  Designer PDF Viewer (JavaScript)
 -  Utopian Tree (JavaScript)
 -  Angry Professor (JavaScript)
+-   Beautiful Days At The Movies (JavaScript)
   
 
   
