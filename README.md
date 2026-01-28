@@ -37,6 +37,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -  Utopian Tree (JavaScript)
 -  Angry Professor (JavaScript)
 -   Beautiful Days At The Movies (JavaScript)
+-   Viral Advertising (JavaScript)
   
 
   
