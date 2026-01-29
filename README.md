@@ -38,6 +38,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -  Angry Professor (JavaScript)
 -   Beautiful Days At The Movies (JavaScript)
 -   Viral Advertising (JavaScript)
+-   Save The Prisoner! (JavaScript)
   
 
   
