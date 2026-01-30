@@ -1,0 +1,15 @@
+function circularArrayRotation(a, k, queries) {
+    const n = a.length;
+    
+    const effectiveRotation = k % n;
+    const result = [];
+
+    for (let q of queries) {
+        
+        let originalIndex = (q - effectiveRotation + n) % n;
+        result.push(a[originalIndex]);
+    }
+
+    return result;
+
+}
