@@ -39,6 +39,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Beautiful Days At The Movies (JavaScript)
 -   Viral Advertising (JavaScript)
 -   Save The Prisoner! (JavaScript)
+-   Circular Array Rotation (JavaScript)
   
 
   
