@@ -40,6 +40,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Viral Advertising (JavaScript)
 -   Save The Prisoner! (JavaScript)
 -   Circular Array Rotation (JavaScript)
+-   Sequence Equation (JavaScript)
   
 
   
