@@ -41,6 +41,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Save The Prisoner! (JavaScript)
 -   Circular Array Rotation (JavaScript)
 -   Sequence Equation (JavaScript)
+-   Jumping On The Clouds Revisited  (JavaScript)
   
 
   
