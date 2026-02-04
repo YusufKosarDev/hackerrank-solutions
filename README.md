@@ -42,6 +42,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Circular Array Rotation (JavaScript)
 -   Sequence Equation (JavaScript)
 -   Jumping On The Clouds Revisited  (JavaScript)
+-   Find Digits (JavaScript)
   
 
   
