@@ -1,0 +1,15 @@
+function findDigits(n) {
+      let count = 0;
+    const digits = n.toString();
+
+    for (let digit of digits) {
+        const d = Number(digit);
+
+        if (d !== 0 && n % d === 0) {
+            count++;
+        }
+    }
+
+    return count;
+
+}
