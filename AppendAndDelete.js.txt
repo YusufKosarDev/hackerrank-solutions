@@ -1,0 +1,35 @@
+function appendAndDelete(s, t, k) {
+    let commonLength = 0;
+    
+    
+    const minLength = Math.min(s.length, t.length);
+    for (let i = 0; i < minLength; i++) {
+        if (s[i] === t[i]) {
+            commonLength++;
+        } else {
+            break;
+        }
+    }
+
+    const sDelete = s.length - commonLength;
+    const tAppend = t.length - commonLength;
+    const minOperations = sDelete + tAppend;
+
+    
+    if (k < minOperations) {
+        return "No";
+    }
+    
+    
+    if (k >= s.length + t.length) {
+        return "Yes";
+    }
+    
+    
+    if ((k - minOperations) % 2 === 0) {
+        return "Yes";
+    }
+
+    return "No";
+
+}
