@@ -1,0 +1,15 @@
+function squares(a, b) {
+    
+    let start = Math.ceil(Math.sqrt(a));
+    
+    
+    let end = Math.floor(Math.sqrt(b));
+    
+    
+    if (start > end) {
+        return 0;
+    }
+     
+    return end - start + 1;
+
+}
