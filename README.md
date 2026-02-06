@@ -44,6 +44,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Jumping On The Clouds Revisited (JavaScript)
 -   Find Digits (JavaScript)
 -   Append And Delete (JavaScript)
+-   Sherlock And Squares (JavaScript)
   
 
   
