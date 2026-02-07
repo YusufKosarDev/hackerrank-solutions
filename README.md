@@ -45,6 +45,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Find Digits (JavaScript)
 -   Append And Delete (JavaScript)
 -   Sherlock And Squares (JavaScript)
+-   Library Fine (JavaScript)
   
 
   
