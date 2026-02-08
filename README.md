@@ -46,6 +46,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Append And Delete (JavaScript)
 -   Sherlock And Squares (JavaScript)
 -   Library Fine (JavaScript)
+-   Cut The Sticks (JavaScript)
   
 
   
