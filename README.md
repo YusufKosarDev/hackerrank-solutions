@@ -47,6 +47,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Sherlock And Squares (JavaScript)
 -   Library Fine (JavaScript)
 -   Cut The Sticks (JavaScript)
+-   Repeated String (JavaScript)
   
 
   
