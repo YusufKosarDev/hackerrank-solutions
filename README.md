@@ -49,6 +49,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Cut The Sticks (JavaScript)
 -   Repeated String (JavaScript)
 -   Jumping On The Clouds (JavaScript)
+-   Equalize The Array (JavaScript)
   
 
   
