@@ -1,0 +1,20 @@
+function equalizeArray(arr) {
+      const frequency = {};
+    
+    
+    for (let num of arr) {
+        frequency[num] = (frequency[num] || 0) + 1;
+    }
+    
+    
+    let maxFreq = 0;
+    for (let key in frequency) {
+        if (frequency[key] > maxFreq) {
+            maxFreq = frequency[key];
+        }
+    }
+    
+    
+    return arr.length - maxFreq;
+
+}
