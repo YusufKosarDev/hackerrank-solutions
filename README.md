@@ -51,6 +51,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Jumping On The Clouds (JavaScript)
 -   Equalize The Array (JavaScript)
 -   ACM ICPC Team (JavaScript)
+-    Taum And B'day (JavaScript)
   
 
   
