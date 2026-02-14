@@ -1,0 +1,26 @@
+function kaprekarNumbers(p, q) {
+       let result = [];
+
+    for (let n = p; n <= q; n++) {
+        const nStr = n.toString();
+        const d = nStr.length;
+
+        const square = BigInt(n) * BigInt(n); 
+        const squareStr = square.toString();
+
+        
+        const right = squareStr.slice(-d);
+        
+        const left = squareStr.slice(0, squareStr.length - d) || '0';
+
+        if (BigInt(left) + BigInt(right) === BigInt(n)) {
+            result.push(n);
+        }
+    }
+
+    if (result.length === 0) {
+        console.log('INVALID RANGE');
+    } else {
+        console.log(result.join(' '));
+    }
+}
