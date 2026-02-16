@@ -54,6 +54,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Taum And B'day (JavaScript)
 -   Modified Kaprekar Numbers (JavaScript)
 -   Beautiful Triplets (JavaScript)
+-   Minimum Distances (JavaScript)
   
 
   
