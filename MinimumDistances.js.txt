@@ -1,0 +1,15 @@
+function minimumDistances(a) {
+     const lastSeen = new Map();
+    let minDistance = Infinity;
+
+    for (let i = 0; i < a.length; i++) {
+        if (lastSeen.has(a[i])) {
+            const distance = i - lastSeen.get(a[i]);
+            minDistance = Math.min(minDistance, distance);
+        }
+        lastSeen.set(a[i], i);
+    }
+
+    return minDistance === Infinity ? -1 : minDistance;
+
+}
