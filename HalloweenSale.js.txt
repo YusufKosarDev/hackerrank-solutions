@@ -1,0 +1,16 @@
+function howManyGames(p, d, m, s) {
+    
+    let count = 0;
+    let currentPrice = p;
+    let budget = s;
+    
+    while (budget >= currentPrice) {
+        budget -= currentPrice;
+        count++;
+        
+        currentPrice = Math.max(m, currentPrice - d);
+    }
+    
+    return count;
+
+}
