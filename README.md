@@ -55,6 +55,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Modified Kaprekar Numbers (JavaScript)
 -   Beautiful Triplets (JavaScript)
 -   Minimum Distances (JavaScript)
+-   Halloween Sale (JavaScript)
   
 
   
