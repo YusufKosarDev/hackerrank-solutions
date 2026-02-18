@@ -56,6 +56,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Beautiful Triplets (JavaScript)
 -   Minimum Distances (JavaScript)
 -   Halloween Sale (JavaScript)
+-   Chocolate Feast (JavaScript)
   
 
   
