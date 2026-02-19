@@ -57,6 +57,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Minimum Distances (JavaScript)
 -   Halloween Sale (JavaScript)
 -   Chocolate Feast (JavaScript)
+-   Lisa's Workbook (JavaScript)
   
 
   
