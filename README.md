@@ -58,6 +58,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Halloween Sale (JavaScript)
 -   Chocolate Feast (JavaScript)
 -   Lisa's Workbook (JavaScript)
+-   Fair Rations (JavaScript)
   
 
   
