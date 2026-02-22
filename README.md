@@ -59,6 +59,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Chocolate Feast (JavaScript)
 -   Lisa's Workbook (JavaScript)
 -   Fair Rations (JavaScript)
+-   Cavity Map (JavaScript)
   
 
   
