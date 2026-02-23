@@ -60,6 +60,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Lisa's Workbook (JavaScript)
 -   Fair Rations (JavaScript)
 -   Cavity Map (JavaScript)
+-   Manasa And Stones (JavaScript)
   
 
   
