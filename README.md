@@ -61,6 +61,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Fair Rations (JavaScript)
 -   Cavity Map (JavaScript)
 -   Manasa And Stones (JavaScript)
+-   Happy Ladybugs (JavaScript)
   
 
   
