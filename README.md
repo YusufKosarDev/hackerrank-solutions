@@ -62,6 +62,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Cavity Map (JavaScript)
 -   Manasa And Stones (JavaScript)
 -   Happy Ladybugs (JavaScript)
+-   Strange Counter (JavaScript)
   
 
   
