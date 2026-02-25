@@ -1,0 +1,12 @@
+function strangeCounter(t) {
+    let cycleStart = 3;
+    let time = t;
+    
+    while (time > cycleStart) {
+        time -= cycleStart;
+        cycleStart *= 2;
+    }
+    
+    return cycleStart - time + 1;
+
+}
