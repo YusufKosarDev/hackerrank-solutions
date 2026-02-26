@@ -63,6 +63,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Manasa And Stones (JavaScript)
 -   Happy Ladybugs (JavaScript)
 -   Strange Counter (JavaScript)
+-   Big Sorting (JavaScript)
   
 
   
