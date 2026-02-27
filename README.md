@@ -64,6 +64,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Happy Ladybugs (JavaScript)
 -   Strange Counter (JavaScript)
 -   Big Sorting (JavaScript)
+-   Intro To Tutorial Challenges (JavaScript)
   
 
   
