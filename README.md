@@ -65,6 +65,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Strange Counter (JavaScript)
 -   Big Sorting (JavaScript)
 -   Intro To Tutorial Challenges (JavaScript)
+-   CamelCase (JavaScript)
   
 
   
