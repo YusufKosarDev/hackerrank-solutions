@@ -67,6 +67,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Intro To Tutorial Challenges (JavaScript)
 -   CamelCase (JavaScript)
 -   Strong Password (JavaScript)
+-   Insertion Sort - Part 1 (JavaScript)
   
 
   
