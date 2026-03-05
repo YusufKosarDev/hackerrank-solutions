@@ -69,6 +69,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Strong Password (JavaScript)
 -   Insertion Sort - Part 1 (JavaScript)
 -   Insertion Sort - Part 2 (JavaScript)
+-   Caesar Cipher (JavaScript)
   
 
   
