@@ -70,6 +70,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Insertion Sort - Part 1 (JavaScript)
 -   Insertion Sort - Part 2 (JavaScript)
 -   Caesar Cipher (JavaScript)
+-   Mars Exploration (JavaScript)
   
 
   
