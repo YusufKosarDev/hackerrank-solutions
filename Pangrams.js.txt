@@ -1,0 +1,13 @@
+function pangrams(s) {
+    
+    const alphabet = new Set("abcdefghijklmnopqrstuvwxyz");
+    
+    s = s.toLowerCase();
+    
+    for (let char of s) {
+        alphabet.delete(char);
+    }
+    
+    return alphabet.size === 0 ? "pangram" : "not pangram";
+
+}
