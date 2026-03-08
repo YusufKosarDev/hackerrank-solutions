@@ -72,6 +72,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Caesar Cipher (JavaScript)
 -   Mars Exploration (JavaScript)
 -   Pangrams (JavaScript)
+-   Funny String (JavaScript)
   
 
   
