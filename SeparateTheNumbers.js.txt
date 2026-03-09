@@ -1,0 +1,30 @@
+function separateNumbers(s) {
+    
+    let n = s.length;
+       
+    for (let i = 1; i <= Math.floor(n / 2); i++) {
+        let firstNumStr = s.substring(0, i);
+        
+        
+        if (firstNumStr.length > 1 && firstNumStr[0] === '0') break;
+
+        let firstNum = BigInt(firstNumStr);
+        let testStr = firstNum.toString();
+        let nextNum = firstNum;
+
+        
+        while (testStr.length < n) {
+            nextNum++;
+            testStr += nextNum.toString();
+        }
+
+        
+        if (testStr === s) {
+            console.log("YES " + firstNumStr);
+            return;
+        }
+    }
+
+    console.log("NO");
+
+}
