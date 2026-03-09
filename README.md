@@ -73,6 +73,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Mars Exploration (JavaScript)
 -   Pangrams (JavaScript)
 -   Funny String (JavaScript)
+-   Separate The Numbers (JavaScript)
   
 
   
