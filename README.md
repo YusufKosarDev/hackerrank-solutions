@@ -74,6 +74,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Pangrams (JavaScript)
 -   Funny String (JavaScript)
 -   Separate The Numbers (JavaScript)
+-   Gemstones (JavaScript)
   
 
   
