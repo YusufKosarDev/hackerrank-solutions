@@ -76,6 +76,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Separate The Numbers (JavaScript)
 -   Gemstones (JavaScript)
 -   Alternating Characters (JavaScript)
+-   Counting Sort 1 (JavaScript)
   
 
   
