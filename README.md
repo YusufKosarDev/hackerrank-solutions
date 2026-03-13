@@ -77,6 +77,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Gemstones (JavaScript)
 -   Alternating Characters (JavaScript)
 -   Counting Sort 1 (JavaScript)
+-   Counting Sort 2 (JavaScript)
   
 
   
