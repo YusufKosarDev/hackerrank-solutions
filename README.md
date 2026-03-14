@@ -78,6 +78,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Alternating Characters (JavaScript)
 -   Counting Sort 1 (JavaScript)
 -   Counting Sort 2 (JavaScript)
+-   Closest Numbers (JavaScript)
   
 
   
