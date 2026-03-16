@@ -80,6 +80,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Counting Sort 2 (JavaScript)
 -   Closest Numbers (JavaScript)
 -   Anagram (JavaScript)
+-   Two Strings (JavaScript)
   
 
   
