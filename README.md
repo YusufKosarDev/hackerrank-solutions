@@ -81,6 +81,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Closest Numbers (JavaScript)
 -   Anagram (JavaScript)
 -   Two Strings (JavaScript)
+-   Palindrome Index (JavaScript)
   
 
   
