@@ -1,0 +1,21 @@
+function makingAnagrams(s1, s2) {
+    
+    let count = new Array(26).fill(0);
+
+    for (let char of s1) {
+        count[char.charCodeAt(0) - 97]++;
+    }
+
+    for (let char of s2) {
+        count[char.charCodeAt(0) - 97]--;
+    }
+
+    let deletions = 0;
+
+    for (let num of count) {
+        deletions += Math.abs(num);
+    }
+
+    return deletions;
+
+}
