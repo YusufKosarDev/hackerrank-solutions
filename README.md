@@ -82,6 +82,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Anagram (JavaScript)
 -   Two Strings (JavaScript)
 -   Palindrome Index (JavaScript)
+-   Making Anagrams (JavaScript)
   
 
   
