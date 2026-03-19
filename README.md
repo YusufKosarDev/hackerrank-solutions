@@ -83,6 +83,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Two Strings (JavaScript)
 -   Palindrome Index (JavaScript)
 -   Making Anagrams (JavaScript)
+-   Find The Median (JavaScript)
   
 
   
