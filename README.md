@@ -84,6 +84,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Palindrome Index (JavaScript)
 -   Making Anagrams (JavaScript)
 -   Find The Median (JavaScript)
+-   String Construction (JavaScript)
   
 
   
