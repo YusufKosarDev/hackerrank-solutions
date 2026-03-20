@@ -1,0 +1,6 @@
+function stringConstruction(s) {
+    
+     const uniqueChars = new Set(s);
+    return uniqueChars.size;
+
+}
