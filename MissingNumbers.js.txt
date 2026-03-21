@@ -1,0 +1,26 @@
+function missingNumbers(arr, brr) {
+    
+    const count = {};
+
+    
+    for (let num of brr) {
+        count[num] = (count[num] || 0) + 1;
+    }
+
+    
+    for (let num of arr) {
+        count[num]--;
+    }
+
+    
+    const result = [];
+
+    for (let key in count) {
+        if (count[key] > 0) {
+            result.push(Number(key));
+        }
+    }
+
+    return result.sort((a, b) => a - b);
+
+}
