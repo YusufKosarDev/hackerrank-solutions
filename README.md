@@ -85,6 +85,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Making Anagrams (JavaScript)
 -   Find The Median (JavaScript)
 -   String Construction (JavaScript)
+-   Missing Numbers (JavaScript)
   
 
   
