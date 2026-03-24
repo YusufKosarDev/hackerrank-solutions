@@ -88,6 +88,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Missing Numbers (JavaScript)
 -   Sherlock And Array (JavaScript)
 -   Grid Challenge (JavaScript)
+-   Luck Balance (JavaScript)
   
 
   
