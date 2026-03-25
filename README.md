@@ -89,6 +89,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Sherlock And Array (JavaScript)
 -   Grid Challenge (JavaScript)
 -   Luck Balance (JavaScript)
+-   Marc's Cakewalk (JavaScript)
   
 
   
