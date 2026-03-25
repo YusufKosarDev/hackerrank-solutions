@@ -1,0 +1,5 @@
+function marcsCakewalk(calorie) {
+    return calorie
+        .sort((a, b) => b - a)
+        .reduce((total, curr, i) => total + (Math.pow(2, i) * curr), 0);
+}
