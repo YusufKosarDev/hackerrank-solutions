@@ -90,6 +90,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Grid Challenge (JavaScript)
 -   Luck Balance (JavaScript)
 -   Marc's Cakewalk (JavaScript)
+-   Largest Permutation (JavaScript)
   
 
   
