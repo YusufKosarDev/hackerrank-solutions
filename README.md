@@ -91,6 +91,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Luck Balance (JavaScript)
 -   Marc's Cakewalk (JavaScript)
 -   Largest Permutation (JavaScript)
+-   Mark and Toys (JavaScript)
   
 
   
