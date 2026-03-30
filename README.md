@@ -92,6 +92,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Marc's Cakewalk (JavaScript)
 -   Largest Permutation (JavaScript)
 -   Mark and Toys (JavaScript)
+-   Beautiful Binary String (JavaScript)
   
 
   
