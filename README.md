@@ -93,6 +93,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Largest Permutation (JavaScript)
 -   Mark and Toys (JavaScript)
 -   Beautiful Binary String (JavaScript)
+-   Lonely Integer (JavaScript)
   
 
   
