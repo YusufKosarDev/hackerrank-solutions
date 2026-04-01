@@ -94,6 +94,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Mark and Toys (JavaScript)
 -   Beautiful Binary String (JavaScript)
 -   Lonely Integer (JavaScript)
+-   Misère Nim (JavaScript)
   
 
   
