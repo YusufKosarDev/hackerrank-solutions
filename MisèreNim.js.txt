@@ -1,0 +1,19 @@
+function misereNim(s) {
+    
+    let nimSum = 0;
+    let allOnes = true;
+
+    for (let pile of s) {
+        nimSum ^= pile; 
+        if (pile !== 1) allOnes = false;
+    }
+
+    if (allOnes) {
+        
+        return (s.length % 2 === 0) ? "First" : "Second";
+    } else {
+        
+        return (nimSum === 0) ? "Second" : "First";
+    }
+
+}
