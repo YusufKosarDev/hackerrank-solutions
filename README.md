@@ -95,6 +95,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Beautiful Binary String (JavaScript)
 -   Lonely Integer (JavaScript)
 -   Misère Nim (JavaScript)
+-   Quicksort 1 - Partition (JavaScript)
   
 
   
