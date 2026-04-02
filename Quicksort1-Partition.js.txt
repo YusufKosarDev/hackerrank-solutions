@@ -1,0 +1,11 @@
+function quickSort(arr) {
+    
+    const pivot = arr[0];
+    
+    const left = arr.filter(x => x < pivot);
+    const equal = arr.filter(x => x === pivot);
+    const right = arr.filter(x => x > pivot);
+    
+    return [...left, ...equal, ...right];
+
+}
