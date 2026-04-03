@@ -96,6 +96,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Lonely Integer (JavaScript)
 -   Misère Nim (JavaScript)
 -   Quicksort 1 - Partition (JavaScript)
+-   Priyanka and Toys (JavaScript)
   
 
   
