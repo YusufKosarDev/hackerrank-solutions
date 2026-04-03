@@ -1,0 +1,23 @@
+function toys(w) {
+    
+    w.sort((a, b) => a - b);
+
+    let containers = 0;
+    let i = 0;
+
+    while (i < w.length) {
+        
+        containers++;
+        
+        
+        let limit = w[i] + 4;
+        
+        
+        while (i < w.length && w[i] <= limit) {
+            i++;
+        }
+    }
+
+    return containers;
+
+}
