@@ -1,0 +1,5 @@
+function flippingBits(n) {
+    
+    return (n ^ 0xFFFFFFFF) >>> 0;
+
+}
