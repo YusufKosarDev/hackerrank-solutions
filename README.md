@@ -97,6 +97,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Misère Nim (JavaScript)
 -   Quicksort 1 - Partition (JavaScript)
 -   Priyanka and Toys (JavaScript)
+-   Flipping bits (JavaScript)
   
 
   
