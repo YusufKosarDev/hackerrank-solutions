@@ -99,6 +99,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Priyanka and Toys (JavaScript)
 -   Flipping bits (JavaScript)
 -   Maximizing XOR (JavaScript)
+-   Tower Breakers (JavaScript)
   
 
   
