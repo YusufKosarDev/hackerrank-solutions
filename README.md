@@ -100,6 +100,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Flipping bits (JavaScript)
 -   Maximizing XOR (JavaScript)
 -   Tower Breakers (JavaScript)
+-   Permuting Two Arrays (JavaScript)
   
 
   
