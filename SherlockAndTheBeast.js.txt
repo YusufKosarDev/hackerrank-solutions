@@ -1,0 +1,20 @@
+function decentNumber(n) {
+    
+    let numFives = n;
+    
+    
+    while (numFives % 3 !== 0) {
+        numFives -= 5;
+    }
+    
+    if (numFives < 0) {
+        console.log(-1);
+        return;
+    }
+    
+    let numThrees = n - numFives;
+    
+    let result = '5'.repeat(numFives) + '3'.repeat(numThrees);
+    console.log(result);
+
+}
