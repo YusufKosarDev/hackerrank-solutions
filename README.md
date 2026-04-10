@@ -103,6 +103,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Permuting Two Arrays (JavaScript)
 -   Sherlock and The Beast (JavaScript)
 -   Running Time of Algorithms (JavaScript)
+-   HackerRank in a String! (JavaScript)
   
 
   
