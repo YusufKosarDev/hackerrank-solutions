@@ -1,0 +1,14 @@
+function theLoveLetterMystery(s) {
+    
+    let operations = 0;
+    
+    for (let i = 0; i < Math.floor(s.length / 2); i++) {
+        let left = s.charCodeAt(i);
+        let right = s.charCodeAt(s.length - 1 - i);
+        
+        operations += Math.abs(left - right);
+    }
+    
+    return operations;
+
+}
