@@ -106,6 +106,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   HackerRank in a String! (JavaScript)
 -   The Love-Letter Mystery (JavaScript)
 -   Game of Thrones - I (JavaScript)
+-   Game of Stones (JavaScript)
   
 
   
