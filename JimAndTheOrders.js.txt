@@ -1,0 +1,20 @@
+function jimOrders(orders) {
+    
+    let result = orders.map((order, index) => {
+        let serveTime = order[0] + order[1];
+        return {
+            customer: index + 1,
+            serveTime: serveTime
+        };
+    });
+
+    result.sort((a, b) => {
+        if (a.serveTime === b.serveTime) {
+            return a.customer - b.customer;
+        }
+        return a.serveTime - b.serveTime;
+    });
+
+    return result.map(x => x.customer);
+
+}
