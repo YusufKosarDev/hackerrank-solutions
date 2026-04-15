@@ -107,6 +107,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   The Love-Letter Mystery (JavaScript)
 -   Game of Thrones - I (JavaScript)
 -   Game of Stones (JavaScript)
+-   Jim and the Orders (JavaScript)
   
 
   
