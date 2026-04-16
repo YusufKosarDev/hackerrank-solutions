@@ -108,6 +108,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Game of Thrones - I (JavaScript)
 -   Game of Stones (JavaScript)
 -   Jim and the Orders (JavaScript)
+-   Maximum Perimeter Triangle (JavaScript)
   
 
   
