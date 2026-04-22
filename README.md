@@ -110,6 +110,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Jim and the Orders (JavaScript)
 -   Maximum Perimeter Triangle (JavaScript)
 -   Minimum Absolute Difference in an Array (JavaScript)
+-   Encryption (JavaScript)
   
 
   
