@@ -1,0 +1,36 @@
+function encryption(s) {
+    
+     s = s.replace(/\s/g, '');
+      
+    let L = s.length;
+    
+    
+    let rows = Math.floor(Math.sqrt(L));
+    let cols = Math.ceil(Math.sqrt(L));
+    
+    if (rows * cols < L) {
+        rows++;
+    }
+    
+    
+    let grid = [];
+    for (let i = 0; i < rows; i++) {
+        grid.push(s.slice(i * cols, i * cols + cols));
+    }
+    
+    
+    let result = [];
+    
+    for (let c = 0; c < cols; c++) {
+        let word = '';
+        for (let r = 0; r < rows; r++) {
+            if (grid[r][c]) {
+                word += grid[r][c];
+            }
+        }
+        result.push(word);
+    }
+    
+    return result.join(' ');
+
+}
