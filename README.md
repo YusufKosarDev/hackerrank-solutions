@@ -112,6 +112,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Minimum Absolute Difference in an Array (JavaScript)
 -   Encryption (JavaScript)
 -   Candies (JavaScript)
+-   Extra Long Factorials (JavaScript)
   
 
   
