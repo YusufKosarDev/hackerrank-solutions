@@ -113,6 +113,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Encryption (JavaScript)
 -   Candies (JavaScript)
 -   Extra Long Factorials (JavaScript)
+-   Absolute Permutation (JavaScript)
   
 
   
