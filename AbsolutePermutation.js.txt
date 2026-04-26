@@ -1,0 +1,25 @@
+function absolutePermutation(n, k) {
+    
+    if (k === 0) {
+        return Array.from({ length: n }, (_, i) => i + 1);
+    }
+
+    if (n % (2 * k) !== 0) {
+        return [-1];
+    }
+
+    let result = [];
+
+    for (let i = 1; i <= n; i++) {
+        let block = Math.floor((i - 1) / k);
+
+        if (block % 2 === 0) {
+            result.push(i + k);
+        } else {
+            result.push(i - k);
+        }
+    }
+
+    return result;
+
+}
