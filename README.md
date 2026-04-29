@@ -115,6 +115,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Extra Long Factorials (JavaScript)
 -   Absolute Permutation (JavaScript)
 -   Flatland Space Stations (JavaScript)
+-   The Grid Search (JavaScript)
   
 
   
