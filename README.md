@@ -116,6 +116,7 @@ This repository contains my solutions to algorithm and problem-solving challenge
 -   Absolute Permutation (JavaScript)
 -   Flatland Space Stations (JavaScript)
 -   The Grid Search (JavaScript)
+-   3D Surface Area (JavaScript)
   
 
   
