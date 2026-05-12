@@ -1,0 +1,35 @@
+function surfaceArea(A) {
+    const H = A.length;
+    const W = A[0].length;
+
+    let area = 0;
+
+    for (let i = 0; i < H; i++) {
+        for (let j = 0; j < W; j++) {
+
+            if (A[i][j] > 0) {
+                
+                area += 2;
+
+                
+                let north = (i > 0) ? A[i - 1][j] : 0;
+                area += Math.max(A[i][j] - north, 0);
+
+                
+                let south = (i < H - 1) ? A[i + 1][j] : 0;
+                area += Math.max(A[i][j] - south, 0);
+
+                
+                let west = (j > 0) ? A[i][j - 1] : 0;
+                area += Math.max(A[i][j] - west, 0);
+
+                
+                let east = (j < W - 1) ? A[i][j + 1] : 0;
+                area += Math.max(A[i][j] - east, 0);
+            }
+        }
+    }
+
+    return area;
+
+}
